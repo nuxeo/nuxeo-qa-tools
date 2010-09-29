@@ -8,7 +8,7 @@
   <description>Nuxeo Quality Assurance tools:
   - Checkstyle configuration
   - PMD configuration</description>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
 
   <scm>
     <connection>scm:hg:https://hg.nuxeo.org/tools/nuxeo-qa-tools</connection>
