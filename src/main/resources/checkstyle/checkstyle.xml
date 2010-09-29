@@ -4,7 +4,7 @@
 <module name="Checker">
   <module name="RegexpHeader">
     <property name="headerFile" value="${checkstyle.header.file}" />
-    <property name="multiLines" value="14, 17, 21" />
+    <property name="multiLines" value="15,16,19,22" />
     <property name="fileExtensions" value="java" />
   </module>
   <property name="severity" value="warning" />
